@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSortedList_21",
+            "request": "launch",
+            "mainClass": "MergeSortedList_21"
+        }
+    ]
+}
